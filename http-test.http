@@ -1,0 +1,7 @@
+GET http://localhost:8080/v1/resources/a
+
+####
+
+GET http://localhost:8080/v1/bye
+
+####
